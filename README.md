@@ -45,15 +45,6 @@
 
 ---
 
-## 📚 Currently Advancing In
-
-- Advanced Full Stack Engineering
-- Cloud-Native Architecture & AWS Solutions
-- Scalable Backend Architectures
-- Modern Frontend Frameworks
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
