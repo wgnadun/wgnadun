@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Software Engineering Undergraduate<br>
-  Full Stack Developer | Frontend & Backend Specialist | Passionate Problem Solver</b>
+  Full Stack Developer | Frontend & Backend Specialist | Cloud Enthusiast | Passionate Problem Solver</b>
 </p>
 
 ---
@@ -18,7 +18,8 @@
 ## 🏢 Professional Overview
 
 - 🎓 Software Engineering undergraduate
-- 🛠️ Specializing in full stack web development & scalable backend
+- 🛠️ Specializing in full stack web development, scalable backend, and cloud technologies
+- ☁️ Experienced with AWS Cloud Services
 - 🚀 Committed to clean architecture, maintainable code, and continuous learning
 - 🌍 Based in Sri Lanka
 
@@ -36,6 +37,9 @@
 ### <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="30"/> **Database**
 - MySQL, MongoDB
 
+### <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30"/> **Cloud**
+- AWS (EC2, S3, Lambda, IAM and more)
+
 ### <img src="https://skillicons.dev/icons?i=c,go&theme=dark" height="30"/> **Other Programming**
 - C, Go
 
@@ -44,6 +48,7 @@
 ## 📚 Currently Advancing In
 
 - Advanced Full Stack Engineering
+- Cloud-Native Architecture & AWS Solutions
 - Scalable Backend Architectures
 - Modern Frontend Frameworks
 
