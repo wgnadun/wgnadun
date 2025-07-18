@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Software Engineering Undergraduate<br>
-  Full Stack Developer | Frontend & Backend Specialist | Cloud Enthusiast | Passionate Problem Solver</b>
+  Full Stack Developer | Cloud Enthusiast | Passionate Problem Solver</b>
 </p>
 
 ---
