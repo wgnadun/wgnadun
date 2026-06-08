@@ -17,7 +17,8 @@
 - 🚀 Committed to clean architecture, maintainable code, and continuous learning
 - 🌍 Based in Sri Lanka
 ---
-## 🛠️ Technical Skills
+
+🛠️ Technical Skills
 ### <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind&theme=dark" height="30"/> **Frontend**
 - React, Redux, JavaScript
 - HTML, CSS, Tailwind CSS
@@ -30,7 +31,8 @@
 ### <img src="https://skillicons.dev/icons?i=c,go&theme=dark" height="30"/> **Other Programming**
 - C, Go
 ---
-## 📫 Connect with Me
+
+📫 Connect with Me
 <p align="center">
   <a href="https://portfolio-new-git-main-wgnaduns-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-23272f?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
