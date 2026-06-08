@@ -10,7 +10,7 @@
   Full Stack Developer | Cloud Enthusiast | Passionate Problem Solver</b>
 </p>
 ---
-## 🏢 Professional Overview
+ 🏢 Professional Overview
 - 🎓 Software Engineering undergraduate
 - 🛠️ Specializing in full stack web development, scalable backend, and cloud technologies
 - ☁️ Experienced with AWS Cloud Services
