@@ -1,128 +1,54 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=2&section=header)
-
-```
-nadun@dev:~$ whoami
-```
-
-# Nadun Dananjaya
-
-```bash
-$ cat profile.txt
-> Software Engineering Undergraduate
-> Full Stack Developer | Cloud Engineer | Problem Solver
-> Location: Sri Lanka 🇱🇰
-> Status: Building things that matter
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=E06C75&center=true&width=600&lines=const+dev+%3D+new+Engineer(%22Nadun%22)%3B;dev.stack+%3D+%5B'React'%2C+'Node'%2C+'Spring'%2C+'AWS'%5D%3B;dev.attitude+%3D+'clean+code+or+no+code'%3B;dev.status+%3D+'always+shipping'%3B" />
-
-</div>
-
-<img src="bg.gif" width="100%"/>
-
+<h1 align="center">👨‍💻 Nadun Dananjaya</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:181818,100:23272f&height=120&section=header&text=Welcome%20to%20My%20Coding%20Lab&fontColor=fff&fontSize=32&animation=fadeIn&background=glassy" alt="header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&width=600&lines=Turning+ideas+into+robust+software+solutions.;Crafting+clean%2C+efficient+code+with+modern+tools.;Building+the+future%2C+one+feature+at+a+time." alt="Typing SVG" />
+</p>
+<p align="center">
+  <b>Software Engineering Undergraduate<br>
+  Full Stack Developer | Cloud Enthusiast | Passionate Problem Solver</b>
+</p>
 ---
-
-## `$ ls -la ./about`
-
-```json
-{
-  "name": "Nadun Dananjaya",
-  "role": "Software Engineering Undergraduate",
-  "focus": [
-    "Full Stack Web Development",
-    "Scalable Backend Systems",
-    "Cloud Architecture"
-  ],
-  "cloud": "AWS — EC2, S3, Lambda, IAM, and more",
-  "principles": ["Clean Architecture", "Maintainable Code", "Continuous Learning"],
-  "location": "Sri Lanka",
-  "available": true
-}
-```
-
+## 🏢 Professional Overview
+- 🎓 Software Engineering undergraduate
+- 🛠️ Specializing in full stack web development, scalable backend, and cloud technologies
+- ☁️ Experienced with AWS Cloud Services
+- 🚀 Committed to clean architecture, maintainable code, and continuous learning
+- 🌍 Based in Sri Lanka
 ---
-
-## `$ cat tech-stack.sh`
-
-```bash
-#!/bin/bash
-
-# ─── FRONTEND ────────────────────────────────────────────
-FRONTEND=(React Redux JavaScript HTML CSS TailwindCSS)
-echo "[frontend] ${FRONTEND[@]}"
-
-# ─── BACKEND ─────────────────────────────────────────────
-BACKEND=(Java PHP NodeJS ExpressJS SpringBoot)
-echo "[backend]  ${BACKEND[@]}"
-
-# ─── DATABASE ────────────────────────────────────────────
-DATABASE=(MySQL MongoDB)
-echo "[database] ${DATABASE[@]}"
-
-# ─── CLOUD ───────────────────────────────────────────────
-CLOUD=(EC2 S3 Lambda IAM Route53 CloudFront)
-echo "[cloud]    ${CLOUD[@]}"
-
-# ─── SYSTEMS / OTHER ─────────────────────────────────────
-OTHER=(C Go)
-echo "[other]    ${OTHER[@]}"
-```
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,java,php,nodejs,express,spring,mysql,mongodb,aws,c,go&theme=dark" />
-</div>
-
+## 🛠️ Technical Skills
+### <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind&theme=dark" height="30"/> **Frontend**
+- React, Redux, JavaScript
+- HTML, CSS, Tailwind CSS
+### <img src="https://skillicons.dev/icons?i=java,php,nodejs,express,spring&theme=dark" height="30"/> **Backend**
+- Java, PHP, Node.js, Express.js, Spring Boot
+### <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="30"/> **Database**
+- MySQL, MongoDB
+### <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30"/> **Cloud**
+- AWS (EC2, S3, Lambda, IAM and more)
+### <img src="https://skillicons.dev/icons?i=c,go&theme=dark" height="30"/> **Other Programming**
+- C, Go
 ---
-
-## `$ git log --oneline --graph`
-
-```
-* feat: always learning something new
-* fix: bad habits → clean architecture
-* refactor: spaghetti → maintainable systems
-* chore: coffee.refill() → productivity++
-* init: started the engineering journey 🚀
-```
-
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://portfolio-new-git-main-wgnaduns-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-23272f?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://github.com/wgnadun" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-23272f?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadun-dananjaya-8bb552296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-23272f?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:wgnadundananjaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-23272f?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://medium.com/@wgnadundananjaya" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-23272f?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Phone-94%20740056634-23272f?style=flat-square&logo=phone&logoColor=white" alt="phone" />
+</p>
 ---
-
-## `$ ping nadun --verbose`
-
-```
-PING nadun.dev — establishing connection...
-
-[200] Portfolio  →  https://portfolio-new-git-main-wgnaduns-projects.vercel.app/
-[200] GitHub     →  https://github.com/wgnadun
-[200] LinkedIn   →  https://www.linkedin.com/in/nadun-dananjaya-8bb552296/
-[200] Email      →  wgnadundananjaya@gmail.com
-[200] Medium     →  https://medium.com/@wgnadundananjaya
-[200] Phone      →  +94 740 056 634
-
-Connection established. Ready to collaborate.
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=E06C75)](https://portfolio-new-git-main-wgnaduns-projects.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=E06C75)](https://github.com/wgnadun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=E06C75)](https://www.linkedin.com/in/nadun-dananjaya-8bb552296/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=E06C75)](mailto:wgnadundananjaya@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=E06C75)](https://medium.com/@wgnadundananjaya)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-nadun@dev:~$ echo "Thanks for visiting. Now go build something."
-Thanks for visiting. Now go build something.
-nadun@dev:~$ █
-```
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=2&section=footer)
-
-</div>
