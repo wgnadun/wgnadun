@@ -1,5 +1,5 @@
 <div align="center">
 
-![anim](anim.gif)
+<img src="anim.gif" width="100%" style="max-width: 600px;">
 
 </div>
